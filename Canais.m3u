@@ -1,0 +1,118 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="globospsd" tvg-logo="" group-title="globos",globospsd
+http://hls1.sua.tv/live/globospsd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="globospfhdh265" tvg-logo="" group-title="globos",globospfhdh265
+http://hls1.sua.tv/live/globospfhdh265/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="globosphd" tvg-logo="" group-title="globos",globosphd
+http://hls1.sua.tv/live/globosphd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="globospfhd" tvg-logo="" group-title="globos",globospfhd
+http://hls1.sua.tv/live/globospfhd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="globorjhdbr2" tvg-logo="" group-title="globos",globorjhdbr2
+http://hls1.sua.tv/live/globorjhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bandcampinassd" tvg-logo="" group-title="band",bandcampinassd
+http://hls1.sua.tv/live/bandcampinassd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bandspfhd" tvg-logo="" group-title="band",bandspfhd
+http://hls1.sua.tv/live/bandspfhd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bandspsd" tvg-logo="" group-title="band",bandspsd
+http://hls1.sua.tv/live/bandspsd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtdifusoramaranhao" tvg-logo="" group-title="SBT",sbtdifusoramaranhao
+http://hls1.sua.tv/live/sbtdifusoramaranhao/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtbrasilia" tvg-logo="" group-title="SBT",sbtbrasilia
+http://hls1.sua.tv/live/sbtbrasilia/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtcentralfhd" tvg-logo="" group-title="SBT",sbtcentralfhd
+http://hls1.sua.tv/live/sbtcentralfhd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtitapoanhdbr2" tvg-logo="" group-title="SBT",sbtitapoanhdbr2
+http://hls1.sua.tv/live/sbtitapoanhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtinterior" tvg-logo="" group-title="SBT",sbtinterior
+http://hls1.sua.tv/live/sbtinterior/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtitapoanfhdbr2" tvg-logo="" group-title="SBT",sbtitapoanfhdbr2
+http://hls1.sua.tv/live/sbtitapoanfhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtredemassa" tvg-logo="" group-title="SBT",sbtredemassa
+http://hls1.sua.tv/live/sbtredemassa/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtpara" tvg-logo="" group-title="SBT",sbtpara
+http://hls1.sua.tv/live/sbtpara/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtrbsfhdbr2" tvg-logo="" group-title="SBT",sbtrbsfhdbr2
+http://hls1.sua.tv/live/sbtrbsfhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtriohdbr2" tvg-logo="" group-title="SBT",sbtriohdbr2
+http://hls1.sua.tv/live/sbtriohdbr2/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtribeiraopretofhd" tvg-logo="" group-title="SBT",sbtribeiraopretofhd
+http://hls1.sua.tv/live/sbtribeiraopretofhd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtriofhdbr2" tvg-logo="" group-title="SBT",sbtriofhdbr2
+http://hls1.sua.tv/live/sbtriofhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtscc" tvg-logo="" group-title="SBT",sbtscc
+http://hls1.sua.tv/live/sbtscc/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtsaoluizma" tvg-logo="" group-title="SBT",sbtsaoluizma
+http://hls1.sua.tv/live/sbtsaoluizma/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtserradourada" tvg-logo="" group-title="SBT",sbtserradourada
+http://hls1.sua.tv/live/sbtserradourada/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtspfhd" tvg-logo="" group-title="SBT",sbtspfhd
+http://hls1.sua.tv/live/sbtspfhd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtspfhdh265" tvg-logo="" group-title="SBT",sbtspfhdh265
+http://hls1.sua.tv/review_stream/sbtspfhdh265/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sbtspsd" tvg-logo="" group-title="SBT",sbtspsd
+http://hls1.sua.tv/live/sbtspsd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
